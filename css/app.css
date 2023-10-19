@@ -37,5 +37,9 @@ body{
     text-align: right;
 }
 .img_logo{
+    width: 70px;
+}
+.sim{}
+.img_sim{
     width: 80px;
 }
