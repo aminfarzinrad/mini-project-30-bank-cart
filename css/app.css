@@ -43,3 +43,10 @@ body{
 .img_sim{
     width: 80px;
 }
+.content_cart{
+    font-size: 35px;
+    margin: 30px 0px;
+    color: #fff;
+    font-weight: bold;
+}
+.number_cart{}
