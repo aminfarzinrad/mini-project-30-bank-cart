@@ -50,3 +50,13 @@ body{
     font-weight: bold;
 }
 .number_cart{}
+.info_cart{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    font-weight: bold;
+}
+.text_info{
+    letter-spacing: 2px;
+}
+.number_info{}
