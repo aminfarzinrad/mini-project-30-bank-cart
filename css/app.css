@@ -6,3 +6,16 @@
 body{
     font-family: 'Times New Roman', Times, serif;
 }
+.container{
+    background-color: #1c1c25;    
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circle{
+    width: 600px;
+    height: 600px;
+    background-image: linear-gradient(to bottom, #c850c0, #4158d0);
+    border-radius: 100%;
+}
